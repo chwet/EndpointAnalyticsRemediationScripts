@@ -17,7 +17,7 @@ Context: 64 Bit
 #                                                                                                                               #
 #####################################################################################################################################
 
-$installuri = "https://github.com/andrew-s-taylor/winget/raw/main/install-apps.txt"
+$installuri = "https://raw.githubusercontent.com/chwet/EndpointAnalyticsRemediationScripts/main/Apps/MF/install-apps.txt"
 
 
 ##Create a folder to store the lists
